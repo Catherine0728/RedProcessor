@@ -1,6 +1,6 @@
 package com.catherine.redprocessor
 
-import com.example.RheaHttp
+import com.annotation.RheaHttp
 
 /**
  * Created by catherine on 2017/7/5.
